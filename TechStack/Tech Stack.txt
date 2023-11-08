@@ -1,0 +1,51 @@
+Tech Stack:
+----------
+			->Framework is designed for functional testing where test data will not be changing freequently.
+Selenium 		->Open source tool which is used testing for web based application.
+Java 			->Programming and scripting language.
+Maven			->Project Build management tool.
+TestNg		->TestNG is a testing framework for the Java programming language inspired by JUnit and NUnit.
+Extent Report	->Html reporting.
+Apache POI		->for excel operation.
+POM			->Implementing page object model for maintaining and upgrading page classes indepeldently.
+
+Package Defined:
+	1.Constants  ->File path and user directory
+	2.Framework  ->Base class and operational Reusable functions
+	3.InitilizeRunconfiguration ->Excel  data operations and object repositroy
+	4.Listeners  ->TestNg listner and webdriver reusable functions
+	5.POM		 ->Page based classes and reusable functions
+	6.TestCases	 ->Test class
+
+Resources Used:
+	1.Excel file
+	2.Drivers
+	3.properties
+
+Flexibility:
+	1.We can access data from 
+		i.		Database
+		ii.		Excel
+		iii.	Config.properties
+		iv.		Json
+	2.Compatible with firefox ,edge, chrome,IE,headless drivers
+	3.proper window handles
+	4.Runtime testcase control
+		->we are contoling the execution of test case from xml files while providing test case Id as primary key
+		->Primary key will be treated as group id
+
+Framework Specifications:
+	1.Test management 
+	2.Test Report with status and timespan details
+	3.Reusability of codes
+	4.Screenshot captured
+	5.Proper logs generated
+	6.Screenshots of Errors will be attached with HTML Report
+	7.Proper timelines for Passed and Failed testcases
+	8.Database Intgrated
+	9.Runtime Data flow
+	10.Generic nomancalture
+	11.Synchronization 
+	12.Easy to maintain and easy to upgrade
+	13.OOP's concept implemented
+	14.test case execution control

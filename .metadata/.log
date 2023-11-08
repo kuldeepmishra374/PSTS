@@ -1,0 +1,52 @@
+!SESSION 2023-04-18 10:43:17.366 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/kuldeep/eclipse-workspace/ -product org.eclipse.epp.package.java.product
+
+This is a continuation of log file C:\Users\kuldeep\eclipse-workspace\.metadata\.bak_0.log
+Created Time: 2023-04-18 10:55:42.638
+
+!ENTRY org.eclipse.core.resources 4 77 2023-04-18 10:55:42.640
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-04-18 10:55:42.640
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 379 2023-04-18 10:55:42.640
+!MESSAGE A Link location must be specified.
+
+!ENTRY org.eclipse.core.resources 4 77 2023-04-18 10:56:32.786
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-04-18 10:56:32.786
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 379 2023-04-18 10:56:32.786
+!MESSAGE A Link location must be specified.
+
+!ENTRY org.eclipse.core.resources 4 77 2023-04-18 10:57:04.298
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-04-18 10:57:04.298
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 379 2023-04-18 10:57:04.298
+!MESSAGE A Link location must be specified.
+
+!ENTRY org.eclipse.core.resources 4 77 2023-04-18 10:57:43.911
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-04-18 10:57:43.911
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 379 2023-04-18 10:57:43.911
+!MESSAGE A Link location must be specified.
+
+!ENTRY org.eclipse.core.resources 4 77 2023-04-18 10:59:31.481
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-04-18 10:59:31.481
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 379 2023-04-18 10:59:31.481
+!MESSAGE A Link location must be specified.
+
+!ENTRY org.eclipse.core.resources 4 77 2023-04-18 11:00:46.323
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2023-04-18 11:00:46.323
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 379 2023-04-18 11:00:46.323
+!MESSAGE A Link location must be specified.
